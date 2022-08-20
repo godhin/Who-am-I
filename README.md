@@ -28,23 +28,33 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 ### <div align = 'center'> 🔥 Skill's stack 🔥 </div>
 <div align = 'center'>
 
-  Frontend
+
+   OS
+ 
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-
-
-  Backend
+  Language
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
   
+  Framework & Library
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 
   Database
    
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 
+  
+<!--
   ### 🏆 Trophies 🏆
 <div align = 'center'><img src = 'https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7'/></div>
 
@@ -61,6 +71,7 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 | ------------- | ------------- |
 
 ***
+-->
 
 ### <div align = 'center'> 🐍 Snake eat my commits 🐍 </div>
 

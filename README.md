@@ -80,4 +80,4 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 ![snake gif](https://github.com/godhin/godhin/blob/output/github-contribution-grid-snake.svg)
 
 
-<div align = 'center'><img src = 'https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Thank%20yoo%20for%20watching&animation=fadeIn&fontSize=50&section=footer'/></div>
+<div align = 'center'><img src = 'https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Thank%20yoo%20for%20watching!&animation=fadeIn&fontSize=50&section=footer'/></div>

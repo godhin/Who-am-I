@@ -8,11 +8,10 @@
  
 ✋ Hi there! 🤚
   
-  I'm learning **Aartificial intelligence, AI** using Python. 🐍
-  
-  
-Sometimes I try to study other languages ​​as well. Languages ​​such as SQL and JS 👨🏻‍💻
-  
+  As a Python data engineer with a passion for development
+I've honed my skills in extracting insights from data and building robust data pipelines.
+Now, I'm venturing into Java backend development, driven by my insatiable curiosity for crafting efficient and scalable solutions.
+I thrive on challenges and am eager to immerse myself in the world of backend development, where I can leverage my problem-solving abilities and penchant for innovation to create impactful software solutions. 🐍  
   
   ![nyan](https://user-images.githubusercontent.com/75519839/155043486-34a2e419-0e45-4023-ac88-4ded5cc55208.gif)
   

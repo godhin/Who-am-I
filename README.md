@@ -21,6 +21,3 @@ I thrive on challenges and am eager to immerse myself in the world of backend de
 
 ### Software I Use Often
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,windows,linux&perline=3)](https://skillicons.dev)
-
-### Trophies
-<img src = 'https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7'/>

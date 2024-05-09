@@ -11,13 +11,13 @@ I thrive on challenges and am eager to immerse myself in the world of backend de
   
 ### Languages I've Worked In
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,bash,powershell&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,bash,powershell)](https://skillicons.dev)
 
 ### Library | Framework
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,selenium,flask,spring&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,selenium,flask,spring)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql)](https://skillicons.dev)
 
 ### Software I Use Often
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,windows,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,windows,linux)](https://skillicons.dev)

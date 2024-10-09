@@ -1,7 +1,7 @@
-Hi, As a Python data engineer with a passion for development  
-I've honed my skills in extracting insights from data and building robust data pipelines.  
-Now, I'm venturing into Java backend development, driven by my insatiable curiosity for crafting efficient and scalable solutions.  
-I thrive on challenges and am eager to immerse myself in the world of backend development, where I can leverage my problem-solving abilities and penchant for innovation to create impactful software solutions. 🐍  
+Hi, as a planner with a passion for development,
+I've cultivated my skills in turning ideas into actionable projects and building efficient workflows.
+Now, I'm exploring Java backend development, driven by my curiosity for creating scalable and well-structured systems.
+I thrive on solving complex problems and am eager to dive deeper into backend development, where I can combine my planning expertise and love for innovation to build impactful software solutions. 💡
 
 
   

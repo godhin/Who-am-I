@@ -29,11 +29,14 @@ When I need to visualize data or create lightweight sites, I turn to Flask.
 <img src="https://github.com/user-attachments/assets/069026b5-5210-446d-9185-9d562c829bd2" width="50" height="50">
 
 choose databases based on the task at hand.  
-At my current company, I use Apache Hive with Trino and Zeppelin. However, for personal projects, I prefer lighter options like SQLite or PostgreSQL.  
+At my current company, I use Apache Hive with Trino and Zeppelin. However, for personal projects, I prefer lighter options like SQL
+
+Lite or PostgreSQL.  
 MySQL was the first database I learned when I started studying queries.
 
 ## Software I Use Often
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,windows,linux)](https://skillicons.dev)
+
 
 For development, I use VS Code for Python and IntelliJ for Java. When I need to make quick edits, I occasionally use Vim directly in the terminal.  
 primarily work in a Mac environment, but I find Linux to be more suitable for handling databases since it's similar to Mac.  
@@ -44,6 +47,10 @@ also use Windows to align with the development environments typically found in K
 <img src="https://github.com/user-attachments/assets/8f4b5904-caef-4a29-a9d1-ba6477322012" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/ae6d3c21-a6fc-4147-aaec-1420593f81df" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/3d79276c-7530-43a2-8973-eda8bab0bb6d" width="50" height="50">
+
+## Business Analytics tool
+<img src="https://github.com/user-attachments/assets/928c85de-c241-4eb4-9303-23febb1e9412" width="50" height="50"> 
+<img src="https://github.com/user-attachments/assets/311ceee0-deb1-41ca-9748-8174e78fa82b" width="50" height="50">
 
 For team collaboration, I mainly used Jira and Slack.  
 To track user reactions and for marketing purposes, I worked with Braze for app push notifications.

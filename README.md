@@ -11,9 +11,8 @@ I thrive on solving complex problems and am eager to dive deeper into backend de
   
 ## Languages I've Worked In
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,bash,powershell)](https://skillicons.dev)
 
-primarily use C++ for solving algorithmic problems.  
 While I typically use PowerShell in the terminal, _I personally prefer Bash or zsh._
 
 ## Library | Framework
@@ -42,7 +41,7 @@ For development, I use VS Code for Python and IntelliJ for Java. When I need to 
 primarily work in a Mac environment, but I find Linux to be more suitable for handling databases since it's similar to Mac.  
 also use Windows to align with the development environments typically found in Korea.
 
-## Collaboration / Marketing tool
+## Management / Marketing tool
 
 <img src="https://github.com/user-attachments/assets/8f4b5904-caef-4a29-a9d1-ba6477322012" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/ae6d3c21-a6fc-4147-aaec-1420593f81df" width="50" height="50">
